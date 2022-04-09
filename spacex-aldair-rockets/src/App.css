@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.card img {
+  height: 280px;
+}
+
+.card {
+  margin-bottom: 28px;
+}
+
+.rocket-info{
+  margin: 25px 0;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Lucida Console";
+  font-size: 82px;
+  text-align: center;
+  color: #ECF8F8;
+  border-color: #B2967D;
+  margin: 35px 0;
+}
